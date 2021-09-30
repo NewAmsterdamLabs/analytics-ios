@@ -1,3 +1,5 @@
+**This fork adds a `Package.swift` file to support Swift Package Manager. It is otherwise identical to the offical library.**
+
 ## Developer Feedback Requested: Analytics-Swift Pilot
 
 **A pilot release of the new Analytics-Swift library is available at the [Analytics-Swift repository](https://github.com/segmentio/analytics-swift). This library is governed by [Segment’s First-Access and Beta terms](https://segment.com/legal/first-access-beta-preview/), and should not be used in production scenarios.**
